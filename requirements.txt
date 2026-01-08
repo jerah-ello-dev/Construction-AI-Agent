@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-chroma
+langchain-ollama        # REQUIRED: Connects to your local Llama 3
+langchain-huggingface   # REQUIRED: Connects to the cloud API for the live demo
+langchain-text-splitters
+pypdf
+chromadb
+streamlit               # REQUIRED: For the web UI
+python-dotenv           # REQUIRED: To manage API keys securely
